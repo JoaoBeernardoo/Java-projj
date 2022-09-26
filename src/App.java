@@ -14,7 +14,7 @@ public class App {
     principal();
 
 int refazer;
-
+   System.out.println("Seja bem vindo.");
   System.out.println("Deseja refazer alguma operação? 1 para sim 0 para nao");
   refazer = scan.nextInt(); 
 
